@@ -1,5 +1,5 @@
 <section class="p-menu1">
-    <nav id="navbar" class="navigation" role="navigation">
+    <nav id="navbar" class="navigation" >
       <input id="toggle1" type="checkbox" />
       <label class="hamburger1" for="toggle1">
         <div class="top"></div>
@@ -28,9 +28,6 @@
   .p-menu1{
      height: 100%;
   }
-  
-  
-  
   
   /* Hamburger */
   .hamburger1 {
